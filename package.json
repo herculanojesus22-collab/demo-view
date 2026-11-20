@@ -1,0 +1,12 @@
+{
+  "name": "harbour-view-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fictional demo of the hotel and restaurant operations system (fictional names and figures only).",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . -l 3000",
+    "build": "echo 'No build step: index.html is a single static page.'"
+  },
+  "license": "UNLICENSED"
+}
